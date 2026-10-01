@@ -1,0 +1,9 @@
+node_modules/
+.DS_Store
+*.log
+
+# Згенеровані self-signed сертифікати та ключі - не комітимо
+*.pem
+*.key
+*.crt
+certs/
